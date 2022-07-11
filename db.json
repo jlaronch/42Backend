@@ -1,0 +1,28 @@
+[
+	{
+	  "id": 1,
+	  "username": "jo",
+	  "email": "",
+	  "password": "",
+	  "avatar": "",
+	  "2fa": false,
+	  "42token": "",
+	  "created": true,
+	  "register_ip": false,
+	  "current_status": "",
+	  "last_connection": ""
+	},
+	{
+	  "id": 2,
+	  "username": "nath",
+	  "email": "",
+	  "password": "",
+	  "avatar": "",
+	  "2fa": false,
+	  "42token": "",
+	  "created": true,
+	  "register_ip": false,
+	  "current_status": "",
+	  "last_connection": ""
+	}
+  ]
